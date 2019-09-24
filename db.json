@@ -4,12 +4,14 @@
         "name": "Bambang Brotoseno"
     },
     "candy": [
-        { 
+        {
+            "id": "1", 
             "title": "A",
             "description": "AAA",
             "price": "1000"
         },
         {
+            "id": "1",
             "title": "B",
             "description": "BBB",
             "price": "2000"
