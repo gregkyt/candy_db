@@ -1,20 +1,19 @@
 {
-    "users": {
-        "username": "bambang",
-        "name": "Bambang Brotoseno"
-    },
-    "candy": [
+    "data": [
         {
             "id": "1", 
             "title": "A",
             "description": "AAA",
-            "price": "1000"
+            "price": 1000
         },
         {
             "id": "1",
             "title": "B",
             "description": "BBB",
-            "price": "2000"
+            "price": 2000
         }
-    ]
+    ],
+    "meta": 2,
+    "message": "success",
+    "errors": null
 }
